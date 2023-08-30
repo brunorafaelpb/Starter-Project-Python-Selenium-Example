@@ -1,0 +1,6 @@
+title_nome_produto_id = "productTitle"
+preco_produto_xpath = "//div[@id='corePrice_feature_div']"
+btn_adicionar_carrinho_id = "add-to-cart-button"
+btn_comprar_agora_id = "buy-now-button"
+select_qtd_id = "quantity"
+btn_ir_para_carrinho_id = "sw-gtc"
